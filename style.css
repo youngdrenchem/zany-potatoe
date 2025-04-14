@@ -1,8 +1,13 @@
 h1{
-    color:blue;
+    color:brown;
+    font-family:cursive ;
 }
+body{ background-color: greenyellow; }
+.kentucky{display: none;}
+
+     
 .button {
-    background-color: #04AA6D; 
+   
     border: none;
     color: white;
     padding: 15px 32px;
@@ -12,3 +17,4 @@ h1{
     font-size: 16px;
   }
   .button2 {border-radius: 4px;}
+
